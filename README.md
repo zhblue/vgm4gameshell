@@ -3,8 +3,8 @@
 一个可在 ClockworkPi GameShell（armv7l / Debian 9）上运行的 VGM/VGZ 音乐播放器。
 播放内核移植自 [ValleyBell/libvgm](https://github.com/ValleyBell/libvgm)，前端用 SDL 1.2
 实现 320×240 全屏界面，可显示 VGM 文件内的 GD3 元数据（曲名、游戏、系统、作者、日期、备注、音芯片）。
-<img width="400" height="1919" alt="6e5267482328be2667add5f50c55d1af" src="https://github.com/user-attachments/assets/3fe45ca5-04fe-4671-b2eb-2d25bfb8d014" />
-<img width="400" height="852" alt="image" src="https://github.com/user-attachments/assets/f1d80f65-d541-4f89-bf0c-a13c5cbfc8a9" />
+<img width="400"  alt="icon" src="https://github.com/user-attachments/assets/3fe45ca5-04fe-4671-b2eb-2d25bfb8d014" />
+<img width="400"  alt="app" src="https://github.com/user-attachments/assets/f1d80f65-d541-4f89-bf0c-a13c5cbfc8a9" />
 
 支持：
 
